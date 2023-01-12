@@ -1,0 +1,28 @@
+
+    body {
+        background-color: #EFEAD8;
+    }
+
+    hr {
+        border-color: #79a383;
+        border-style: double none none;
+        border-width: 5px;
+        left: 0;
+        position: absolute;
+        width: 20%;
+    }
+
+    p{
+        border-width: 3px;
+        border-style: none;
+        border-left: 6px double #79a383!important;
+        padding: 0.01em 16px;
+    }
+
+    h1 {
+        color: #22492c;
+    }
+
+    h3 {
+        color: #3e5683;
+    }
